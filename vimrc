@@ -5,7 +5,6 @@
 let fancy_symbols_enabled = 0
 let mapleader=","
 
-
 set encoding=utf-8
 let using_neovim = has('nvim')
 let using_vim = !using_neovim
